@@ -57,8 +57,8 @@
 
 <h3 align="center">Others:</h3>
 <p align="center">
+  <a href="https://chocothelee.itch.io/" target="blank"><img align="center" src="https://img.icons8.com/windows/452/itch-io.png" alt="chocothelee.itch.io" height="40" width="40"></a>
   <a href="https://www.codewars.com/users/chocolee" target="blank"><img align="center" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars.com/chocolee" height="30" width="30"/></a>
-  <a href="https://www.freecodecamp.org/jimthejelly" target="blank"><img align="center" src="https://design-style-guide.freecodecamp.org/downloads/fcc_primary_small.jpg" alt="freecodecamp.org/jimthejelly" height="30" width="40"/></a>
 </p>
 
 ***
