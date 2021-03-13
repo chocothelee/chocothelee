@@ -18,7 +18,7 @@
   <a href="https://love2d.org" target="_blank"> <img src="https://pbs.twimg.com/profile_images/698939763353481216/pDuLHUDg_400x400.png" alt="love" width="40" height="40"/></a>
 </p>
 
-***
+<hr>
 
 <h2>About me:</h2>
 
@@ -48,7 +48,7 @@
 
 - Start a personal project involving coding
 
-***
+<hr>
 
 <h3 align="center">Contact me through:</h3>
 <p align="center">
@@ -61,12 +61,12 @@
   <a href="https://www.codewars.com/users/chocolee" target="blank"><img align="center" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars.com/chocolee" height="30" width="30"/></a>
 </p>
 
-***
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chocothelee&show_icons=true&locale=en&layout=compact" alt="chocothelee" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocothelee&" alt="chocothelee" /></p>
 
-***
+<hr>
 
 Github profile templates: [github.com/rakj3770](https://github.com/rajk3770/Github-Profile-Readme-Creator#usage) and [github.com/rahuldkjain](https://github.com/rahuldkjain/github-profile-readme-generator)
