@@ -67,6 +67,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chocothelee&show_icons=true&locale=en" alt="chocothelee" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocothelee&" alt="chocothelee" /></p>
+
 <hr>
 
 Github profile templates: [github.com/rakj3770](https://github.com/rajk3770/Github-Profile-Readme-Creator#usage) and [github.com/rahuldkjain](https://github.com/rahuldkjain/github-profile-readme-generator)
