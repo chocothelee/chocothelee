@@ -60,11 +60,11 @@
 
 <hr>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chocothelee&show_icons=true&locale=en&layout=compact" alt="chocothelee" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=chocothelee&show_icons=true&locale=en" alt="chocothelee" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocothelee&" alt="chocothelee" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chocothelee&show_icons=true&locale=en&layout=compact" alt="chocothelee" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chocothelee&show_icons=true&locale=en" alt="chocothelee" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocothelee&" alt="chocothelee" />
+</p>
 
 <hr>
 
