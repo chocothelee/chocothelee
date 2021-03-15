@@ -54,7 +54,7 @@
 <h3 align="center">Contact me through:</h3>
 <p align="center">
   <a href="https://discord.gg/chocolee#9439" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="chocolee#9439" height="30" width="40" /></a>
-  <a href="https://codepen.io/jimthejelly" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jimthejelly" height="30" width="40" /></a>
+  <a href="https://codepen.io/chocothelee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jimthejelly" height="30" width="40" /></a>
   <a href="https://chocothelee.itch.io/" target="blank"><img align="center" src="https://img.icons8.com/windows/452/itch-io.png" alt="chocothelee.itch.io" height="40" width="40"></a>
   <a href="https://www.codewars.com/users/chocolee" target="blank"><img align="center" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars.com/chocolee" height="30" width="30"/></a>
 </p>
