@@ -24,29 +24,22 @@
 <h2>About me:</h2>
 
 - I'm interested in the field of **Astronomy** 🔭 and **Engineering** 
-
 - I’m currently learning **Java** and **Python**, with a few side projects of mine involving HTML/CSS and C++/C# (for game dev)
-
 - My first coding language was Python
 
 
 <h2>Current skills with coding:</h2>
 
 - Taking AP Computer Science (planning on taking IB CS)
-
 - Able to solve moderate algorithmic problems with Java
-
 - Basic knowledge of HTML/CSS and C++/C#
 
 
 <h2>Goals for the year:</h2>
 
 - Finish a game with Unity/Godot Engine
-
 - Create my portfolio with HTML and CSS
-
 - Become more comfortable with algorithms
-
 - Start a personal project involving coding
 
 <hr>
