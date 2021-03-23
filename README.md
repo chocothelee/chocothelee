@@ -23,7 +23,7 @@
 
 <h2>About me:</h2>
 
-- I'm interested in the field of **Astronomy** 🔭 and **Engineering** 
+- I'm interested in the field of **Astronomy** and **Engineering** 
 - I’m currently learning **Java** and **Python**, with a few side projects of mine involving HTML/CSS and C++/C# (for game dev)
 - My first coding language was Python
 
