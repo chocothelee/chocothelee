@@ -30,7 +30,7 @@
 
 <h2>Current skills with coding:</h2>
 
-- Taking AP Computer Science (planning on taking IB CS)
+- Taking **AP Computer Science** in HS (planning on taking IB CS)
 - Able to solve moderate algorithmic problems with Java
 - Basic knowledge of HTML/CSS and C++/C#
 
