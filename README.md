@@ -45,7 +45,7 @@
 
 <hr>
 
-<h3 align="center">Contact me through:</h3>
+<h3 align="center">Other socials:</h3>
 <p align="center">
   <a href="https://discord.gg/chocolee#9439" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="chocolee#9439" height="30" width="40" /></a>
   <a href="https://codepen.io/chocothelee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="jimthejelly" height="30" width="40" /></a>
