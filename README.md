@@ -23,18 +23,20 @@
 
 <h2>About me:</h2>
 
-- I'm interested in the field of **Astronomy** and **Engineering** 
-- I’m currently learning **Java** and **Python**, with a few side projects of mine involving HTML/CSS (for web dev) and C++/C# (for game dev)
-- I started coding in 7th grade, but only became serious about pursuing it as a career in 9th grade
-- My first coding language was Python
-
+<ul>
+  <li>I'm interested in the field of <strong>Astronomy</strong> and <strong>Engineering</strong></li>
+  <li>I’m currently learning <strong>Java</strong> and <strong>Python</strong>, with a few side projects of mine involving HTML/CSS (for web dev) and C++/C# (for game dev)</li>
+  <li>I started coding in 7th grade, but only became serious about pursuing it as a career in 9th grade</li>
+  <li>My first coding language was Python</li>
+</ul>
 
 <h2>Current skills with coding:</h2>
 
-- Taking **AP Computer Science** in HS (planning on taking IB CS)
-- Able to solve moderate algorithmic problems with Java
-- Basic knowledge of HTML/CSS and C++/C#
-
+<ul>
+  <li>Taking AP Computer Science in HS (planning on taking IB CS)</li>
+  <li>Able to solve moderate algorithmic problems with Java</li>
+  <li>Basic knowledge of HTML/CSS and C++/C#
+</ul>
 
 <h2>Goals for the year:</h2>
 
