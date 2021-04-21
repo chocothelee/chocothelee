@@ -38,10 +38,12 @@
 
 <h2>Goals for the year:</h2>
 
-- Finish a game with Unity/Godot Engine
-- Create my portfolio with HTML and CSS
-- Become more comfortable with algorithms
-- Start a personal project involving coding
+<ul>
+  <li>Finish a game with Unity/Godot Engine</li>
+  <li><strike>Create my portfolio with HTML and CSS.</strike></li>
+  <li>Become more comfortable with algorithms</li>
+  <li>Start a personal project involving coding</li>
+</ul>
 
 <hr>
 
