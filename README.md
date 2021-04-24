@@ -30,6 +30,8 @@
   <li>My first coding language was Python</li>
 </ul>
 
+<h4>Check out my website: <a href="chocothelee.github.io">chocothelee.github.io</a></h4>
+
 <h2>Current skills with coding:</h2>
 
 <ul>
