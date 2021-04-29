@@ -37,7 +37,7 @@
 <ul>
   <li>Taking AP Computer Science in HS (planning on taking IB CS)</li>
   <li>Able to solve moderate algorithmic problems with Java</li>
-  <li>Basic knowledge of HTML/CSS and C++/C#
+  <li>Basic knowledge of HTML/CSS and C++/C#</li>
 </ul>
 
 <h2>Goals for the year:</h2>
