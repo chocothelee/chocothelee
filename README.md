@@ -58,7 +58,7 @@
   <a href="https://chocothelee.itch.io/" target="blank"><img align="center" src="https://img.icons8.com/windows/452/itch-io.png" alt="chocothelee.itch.io" height="40" width="40"></a>
   <a href="https://www.codewars.com/users/chocolee" target="blank"><img align="center" src="https://www.codewars.com/assets/logos/logo-glyph-36-red-583450fbf586726c570cfd610c94b8f631abfd89d5c4996b4c821a770ca498f9.png" alt="codewars.com/chocolee" height="30" width="30"/></a>
 </p>
-<h6 align="center">(I might not respond quickly due to ongoing exams. If that is the case, please message me again and I'll try to get back to you quickly.)</h6>
+<h6 align="center">(If I have not responded after 3 days, please message me again and I'll try to get back to you as soon as possible.)</h6>
 
 <hr>
 
