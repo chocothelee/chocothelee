@@ -30,21 +30,22 @@
   <li>My first coding language was Python</li>
 </ul>
 
-<h4>Check out my personal portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a></h4>
+<h4>Check out my personal portfolio: <a href="theotherjimin.github.io">theotherjimin.github.io</a></h4>
 
 <h2>Current skills with coding:</h2>
 
 <ul>
-  <li>Taking AP Computer Science in HS (planning on taking IB CS)</li>
-  <li>Able to solve moderate algorithmic problems with Java</li>
+  <li>Took AP Computer Science</li>
+  <li>Able to solve mediocre algorithmic problems with Java</li>
   <li>Basic knowledge of HTML/CSS and C++/C#</li>
+  <li>Helped organise a Hackathon in my school where I taught other students web dev</li>
 </ul>
 
 <h2>Goals for the year:</h2>
 
 <ul>
   <li>Finish a game with Unity/Godot Engine</li>
-  <li><strike>Create my portfolio with HTML and CSS.</strike></li>
+  <li><strike>Create my portfolio with HTML and CSS</strike></li>
   <li>Become more comfortable with algorithms</li>
   <li>Start a personal project involving coding</li>
 </ul>
