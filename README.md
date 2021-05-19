@@ -30,7 +30,7 @@
   <li>My first coding language was Python</li>
 </ul>
 
-<h4>Check out my personal portfolio: <a href="theotherjimin.github.io">theotherjimin.github.io</a></h4>
+<h4>Check out my personal portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a></h4>
 
 <h2>Current skills with coding:</h2>
 
@@ -63,10 +63,10 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theotherjimin&layout=compact)](https://github.com/theotherjimin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocothelee&layout=compact)](https://github.com/chocothelee/github-readme-stats)
 <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=theotherjimin&show_icons=true&include_all_commits=true)](https://github.com/theotherjimin/github-readme-stats)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theotherjimin" alt="theotherjimin" /></p>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=chocothelee&show_icons=true&include_all_commits=true)](https://github.com/chocothelee/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocothelee" alt="chocothelee" /></p>
 
 <hr>
 
