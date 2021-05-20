@@ -35,8 +35,8 @@
 <h2>Current skills with coding:</h2>
 
 <ul>
-  <li>Took AP Computer Science</li>
-  <li>Able to solve mediocre algorithmic problems with Java</li>
+  <li>Finished AP Computer Science</li>
+  <li>Able to solve intermediate algorithmic problems with Java</li>
   <li>Basic knowledge of HTML/CSS and C++/C#</li>
   <li>Helped organise a Hackathon in my school where I taught other students web dev</li>
 </ul>
@@ -44,7 +44,7 @@
 <h2>Goals for the year:</h2>
 
 <ul>
-  <li>Finish a game with Unity/Godot Engine</li>
+  <li>Finish a game with the Unity Engine</li>
   <li><strike>Create my portfolio with HTML and CSS</strike></li>
   <li>Become more comfortable with algorithms</li>
   <li>Start a personal project involving coding</li>
