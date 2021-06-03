@@ -46,7 +46,7 @@
 <h2>Goals for the year:</h2>
 
 <ul>
-  <li>Finish a game with the Unity/Godot Engine <strong>*IN PROGRESS*</strong> </li>
+  <li>Finish a game with the Unity/Godot Engine <em><strong>*IN PROGRESS*</strong></em> </li>
   <li><strike>Create my portfolio with HTML and CSS</strike></li>
   <li>Become more comfortable with algorithms</li>
   <li>Start a personal project involving coding</li>
