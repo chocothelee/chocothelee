@@ -30,7 +30,7 @@
   <li>My first coding language was Python</li>
 </ul>
 
-<h4>Check out my personal portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a></h4>
+<h4>Check out my personal portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a> <em>*Still in progress*</em></h4>
 
 <h2>Current skills with coding:</h2>
 
