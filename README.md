@@ -30,7 +30,7 @@
   <li>My first coding language was Python</li>
 </ul>
 
-<h4>Check out my personal portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a> <em>*Still in progress*</em></h4>
+<h4>Check out my personal portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a> <em><strong>*IN PROGRESS*</strong></em> </h4>
 
 <h2>Current skills with coding:</h2>
 
@@ -44,7 +44,7 @@
 <h2>Goals for the year:</h2>
 
 <ul>
-  <li>Finish a game with the Godot Engine <em><strong>*IN PROGRESS*</strong></em> </li>
+  <li>Finish a game with the Godot Engine</li>
   <li><strike>Create my portfolio with HTML and CSS</strike></li>
   <li>Become more comfortable with algorithms</li>
   <li>Start a personal project involving coding</li>
