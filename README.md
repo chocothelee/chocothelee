@@ -63,7 +63,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocothelee&layout=compact)](https://github.com/chocothelee/github-readme-stats)
 <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=chocothelee&show_icons=true&include_all_commits=true)](https://github.com/chocothelee/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocothelee" alt="chocothelee" /></p>
 
 <hr>
