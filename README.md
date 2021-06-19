@@ -57,7 +57,7 @@
   <a href="mailto:rosajimin22@gmail.com" target="_blank"><img align="center" src="https://i.pinimg.com/564x/c4/4b/55/c44b558d5072246d510dad9fbb0b2869.jpg" alt="mail.google.com" width="37" height="37" /></a>
   <a href="https://www.youtube.com/channel/UCBi29QC9gZBbRUpy_CV93Vw" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/395_Youtube_logo-512.png" alt="youtube.com" width="40" height="40" /></a>
 </p>
-<h6 align="center">(If I have not responded after 3 days, please message me again and I'll try to get back to you as soon as possible. I may be busy with exams or other projects.)</h6>
+<h6 align="center">(If I have not responded after 3 days, please message me again and I'll try to get back to you as soon as possible.)</h6>
 
 <hr>
 
