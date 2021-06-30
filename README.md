@@ -24,8 +24,8 @@
 <ul>
   <li>I'm interested in the field of <strong>Astronomy</strong> and <strong>Engineering</strong></li>
   <li>I’m currently learning <strong>Java</strong> and <strong>Python</strong>, with a few side projects of mine involving HTML/CSS (for web dev) and C++/C# (for game dev)</li>
-  <li>I started coding in 7th grade</li>
-  <li>My first coding language was Python</li>
+  <li>I started coding in <strong>7th grade</strong></li>
+  <li>My first coding language was <strong>Python</strong></li>
 </ul>
 
 <h4>Check out my personal portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a></h4>
