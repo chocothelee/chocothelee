@@ -28,6 +28,8 @@
   <li>My first coding language was <strong>Python</strong></li>
 </ul>
 
+<strong>check out my portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a></strong>
+
 <h2>Current skills with coding:</h2>
 
 <ul>
@@ -41,7 +43,11 @@
 
 <ul>
   <li>Finish a game with the Godot Engine <strong><em>*IN PROGRESS*</em></strong></li>
-  <li><strike>Create my portfolio with HTML and CSS</strike> <strong>link to portfolio: <a href="chocothelee.github.io">chocothelee.github.io</a></strong></li>
+  <li><strike>Create my personal portfolio with HTML and CSS</strike></li>
+  <strong><ul>
+    <li><a href="chocothelee.github.io">link to project</li>
+    <li><a href="https://github.com/chocothelee/chocothelee.github.io">code for project</a></li>
+    </ul></strong>
   <li>Become more comfortable with algorithms</li>
   <li>Start a personal project involving coding</li>
 </ul>
