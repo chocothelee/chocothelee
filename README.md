@@ -22,7 +22,7 @@
 <h2>About me:</h2>
 
 <ul>
-  <li>I'm interested in the field of <strong>Astronomy</strong> and <strong>Engineering</strong></li>
+  <li>I'm interested in the field of <strong>Astrophysics</strong> and <strong>Mechanical Engineering</strong></li>
   <li>I’m currently learning <strong>Java</strong> and <strong>Python</strong>, with a few side projects of mine involving HTML/CSS (for web dev) and C++/C# (for game dev)</li>
   <li>I started coding in <strong>7th grade</strong></li>
   <li>My first coding language was <strong>Python</strong></li>
