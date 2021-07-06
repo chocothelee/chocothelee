@@ -22,9 +22,9 @@
 <h2>About me:</h2>
 
 <ul>
-  <li>I'm interested in <strong>Astronomy (Astrophysics)</strong> and <strong>Mechanical Engineering</strong></li>
-  <li>I’m mainly learning <strong>Java</strong> and <strong>Python</strong>)</li>
-  <li>I started coding in <strong>7th grade</strong></li>
+  <li>I am interested in <strong>Astronomy</strong> and <strong>Engineering</strong></li>
+  <li>I am mainly learning <strong>Java</strong> and <strong>Python</strong></li>
+  <li>I started learning to code in 7th grade</li>
   <li>My first coding language was <strong>Python</strong></li>
 </ul>
 
