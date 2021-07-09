@@ -40,7 +40,7 @@
 <h2>Goals for the year:</h2>
 
 <ul>
-  <li>Finish a game with the Godot Engine <strong><em>*IN PROGRESS*</em></strong></li>
+  <li>Finish a game with the Godot Engine <strong><em>*CURRENTLY IN PROGRESS*</em></strong></li>
   <strong><ul>
     <li>link to project</li>
   </ul></strong>
