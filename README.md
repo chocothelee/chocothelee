@@ -46,8 +46,8 @@
   </ul></strong>
   <li><strike>Create my personal portfolio with HTML and CSS</strike></li>
   <strong><ul>
-    <li><a href="chocothelee.github.io">link to project</li>
-    <li><a href="https://github.com/chocothelee/chocothelee.github.io">code for project</a></li>
+    <li><a href="theotherjimin.github.io">link to project</li>
+    <li><a href="https://github.com/theotherjimin/theotherjimin.github.io">code for project</a></li>
     </ul></strong>
   <li>Become more comfortable with algorithms</li>
   <li>Start a personal project involving coding</li>
@@ -58,7 +58,7 @@
 <h3 align="center">Other socials:</h3>
 <p align="center">
   <a href="https://discord.gg/huny3mFurf" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="discord.gg/huny3mFurf" height="30" width="40" /></a>
-  <a href="https://chocothelee.itch.io/" target="_blank"><img align="center" src="https://img.icons8.com/windows/452/itch-io.png" alt="chocothelee.itch.io" height="40" width="40"></a>
+  <a href="https://theotherjimin.itch.io/" target="_blank"><img align="center" src="https://img.icons8.com/windows/452/itch-io.png" alt="theotherjimin.itch.io" height="40" width="40"></a>
   <a href="mailto:rosajimin22@gmail.com" target="_blank"><img align="center" src="https://i.pinimg.com/564x/c4/4b/55/c44b558d5072246d510dad9fbb0b2869.jpg" alt="mail.google.com" width="37" height="37" /></a>
   <a href="https://www.youtube.com/channel/UCBi29QC9gZBbRUpy_CV93Vw" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/395_Youtube_logo-512.png" alt="youtube.com" width="40" height="40" /></a>
 </p>
@@ -66,9 +66,9 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocothelee&layout=compact)](https://github.com/chocothelee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theotherjimin&layout=compact)](https://github.com/theotherjimin/github-readme-stats)
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocothelee" alt="chocothelee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theotherjimin" alt="theotherjimin" /></p>
 
 <hr>
 
