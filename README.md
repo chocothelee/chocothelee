@@ -49,8 +49,6 @@
     <li><a href="theotherjimin.github.io">link to project</li>
     <li><a href="https://github.com/theotherjimin/theotherjimin.github.io">code for project</a></li>
     </ul></strong>
-  <li>Become more comfortable with algorithms</li>
-  <li>Start a personal project involving coding</li>
 </ul>
 
 <hr>
