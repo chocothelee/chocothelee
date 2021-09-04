@@ -46,8 +46,8 @@
   </ul></strong>
   <li><strike>Create my personal portfolio with HTML and CSS</strike></li>
   <strong><ul>
-    <li><a href="theotherjimin.github.io">link to project</li>
-    <li><a href="https://github.com/theotherjimin/theotherjimin.github.io">code for project</a></li>
+    <li><a href="chocothelee.github.io">link to project</li>
+    <li><a href="https://github.com/chocothelee/chocothelee.github.io">code for project</a></li>
     </ul></strong>
 </ul>
 
