@@ -42,7 +42,7 @@
 <ul>
   <li>Finish a game with the Godot Engine <strong><em>*CURRENTLY IN PROGRESS*</em></strong></li>
   <strong><ul>
-    <li>link to project</li>
+    <li>link to project --- my other game projects can be viewed on <a href="https://theotherjimin.itch.io">itch.io</a></li>
   </ul></strong>
   <li><strike>Create my personal portfolio with HTML and CSS</strike></li>
   <strong><ul>
