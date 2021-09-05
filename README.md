@@ -23,7 +23,7 @@
 
 <ul>
   <li>I am interested in <strong>Astronomy</strong> and <strong>Engineering</strong></li>
-  <li>I am mainly learning <strong>Java</strong> and <strong>Python</strong></li>
+  <li>I mainly use <strong>Java</strong> and <strong>Python</strong> for coding projects</li>
   <li>I started learning to code in 7th grade</li>
   <li>My first coding language was <strong>Python</strong></li>
 </ul>
