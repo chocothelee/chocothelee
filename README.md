@@ -31,7 +31,7 @@
 <h2>Current skills with coding:</h2>
 
 <ul>
-  <li>Finished AP Computer Science</li>
+  <li>Finished AP Computer Science with a 5 :)</li>
   <li>Able to solve intermediate algorithmic problems with Java</li>
   <li>Basic knowledge of HTML/CSS and C++/C#</li>
   <li>Helped organise a Hackathon in my school where I taught other students web dev</li>
