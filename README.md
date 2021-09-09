@@ -49,9 +49,8 @@
     <li><a href="chocothelee.github.io">link to project</li>
     <li><a href="https://github.com/chocothelee/chocothelee.github.io">code for project</a></li>
     </ul></strong>
+  <li>Work on improving my personal portfolio with JavaScript so the page looks nicer</li>
 </ul>
-
-<hr>
 
 <h3 align="center">Other socials:</h3>
 <p align="center">
