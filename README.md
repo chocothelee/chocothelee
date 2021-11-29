@@ -1,6 +1,6 @@
-<h1 align="center">Hello!</h1>
+<h1 align="center">Welcome!</h1>
 
-<p align="center">I'm Jimin (she/her), and I welcome you to my profile!</p>
+<p align="center">I'm Jimin (she/her), and this is my profile!</p>
 
 <p align=center> <img src=https://komarev.com/ghpvc/?username=chocolee13 alt=chocolee13 /> </p>
 
