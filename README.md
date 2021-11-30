@@ -22,10 +22,8 @@
 <h2>About me:</h2>
 
 <ul>
-  <li>I am interested in <strong>Astronomy</strong> and <strong>Engineering</strong></li>
-  <li>I mainly use <strong>Java</strong> and <strong>Python</strong> for coding projects</li>
   <li>I started learning to code in 7th grade</li>
-  <li>My first coding language was <strong>Python</strong></li>
+  <li>My first coding language was Python</li>
 </ul>
 
 <h2>Current skills with coding:</h2>
