@@ -35,19 +35,14 @@
   <li>Helped organise a Hackathon in my school where I taught other students web dev</li>
 </ul>
 
-<h2>Goals for the year:</h2>
+<h2>Goals for 2022:</h2>
 
 <ul>
-  <li>Finish a game with the Godot Engine <strong><em>*CURRENTLY IN PROGRESS*</em></strong></li>
+  <li>Finish a game <strong><em>*CURRENTLY IN PROGRESS*</em></strong></li>
   <strong><ul>
     <li>link to project --- my other game projects can be viewed on <a href="https://chocothelee.itch.io">itch.io</a></li>
   </ul></strong>
-  <li><strike>Create my personal portfolio with HTML and CSS</strike></li>
-  <strong><ul>
-    <li><a href="chocothelee.github.io">link to project</li>
-    <li><a href="https://github.com/chocothelee/chocothelee.github.io">code for project</a></li>
-    </ul></strong>
-  <li>Work on improving my personal portfolio with JavaScript so the page looks nicer (add different pages & set up contacts)</li>
+  <li>Improve my personal portfolio and customize it</li>
 </ul>
 
 <h3 align="center">Other socials:</h3>
