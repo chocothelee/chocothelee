@@ -24,12 +24,13 @@
 <ul>
   <li>I started learning to code in 7th grade</li>
   <li>My first coding language was Python</li>
+  <li>I am currently working on improving my HTML skills</li>
 </ul>
 
 <h2>Current skills with coding:</h2>
 
 <ul>
-  <li>Passed AP CompSci with a 5 :)</li>
+  <li>Took AP Computer Science A and passed with a 5</li>
   <li>Able to solve intermediate algorithmic problems with Java</li>
   <li>Basic knowledge of HTML/CSS and C++/C#</li>
   <li>Helped organise a Hackathon in my school where I taught other students web dev</li>
