@@ -57,9 +57,9 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chocothelee&layout=compact)](https://github.com/chocothelee/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimthejelly&layout=compact)](https://github.com/jimthejelly/github-readme-stats)
 <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chocothelee" alt="chocothelee" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jimthejelly" alt="jimthejelly" /></p>
 
 <hr>
 
