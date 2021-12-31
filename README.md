@@ -2,7 +2,7 @@
 
 <p align="center">I'm Jimin (she/her), and this is my profile!</p>
 
-<p align=center> <img src=https://komarev.com/ghpvc/?username=chocolee13 alt=chocolee13 /> </p>
+<p align=center> <img src=https://komarev.com/ghpvc/?username=jimthejelly alt=jimthejelly /> </p>
 
 <hr>
 
