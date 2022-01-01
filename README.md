@@ -1,10 +1,4 @@
-<h1 align="center">Welcome!</h1>
-
-<p align="center">I'm Jimin (she/her), and this is my profile!</p>
-
 <p align=center> <img src=https://komarev.com/ghpvc/?username=jimthejelly alt=jimthejelly /> </p>
-
-<hr>
 
 <h3 align="center"><strong>Languages and Tools:</strong></h3>
 <p align="center">
@@ -16,35 +10,7 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-
 <hr>
-
-<h2>About me:</h2>
-
-<ul>
-  <li>I started learning to code in 7th grade</li>
-  <li>My first coding language was Python</li>
-  <li>I am currently working on improving my HTML skills</li>
-</ul>
-
-<h2>Current skills with coding:</h2>
-
-<ul>
-  <li>Took AP Computer Science A and passed with a 5</li>
-  <li>Able to solve intermediate algorithmic problems with Java</li>
-  <li>Basic knowledge of HTML/CSS and C++/C#</li>
-  <li>Helped organise a Hackathon in my school where I taught other students web dev</li>
-</ul>
-
-<h2>Goals for 2022:</h2>
-
-<ul>
-  <li>Finish a game <strong><em>*CURRENTLY IN PROGRESS*</em></strong></li>
-  <strong><ul>
-    <li>link to project --- my other game projects can be viewed on <a href="https://chocothelee.itch.io">itch.io</a></li>
-  </ul></strong>
-  <li>Improve my personal portfolio and customize it</li>
-</ul>
 
 <h3 align="center">Other socials:</h3>
 <p align="center">
