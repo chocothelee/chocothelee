@@ -2,7 +2,6 @@
 
 <h3 align="center"><strong>Languages and Tools:</strong></h3>
 <p align="center">
-  <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -25,6 +24,8 @@
   <a href="https://www.youtube.com/channel/UCBi29QC9gZBbRUpy_CV93Vw" target="_blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands-1/512/395_Youtube_logo-512.png" alt="youtube.com" width="40" height="40" /></a>
 </p>
 <h6 align="center">(If I have not responded after 3 days, please message me again and I'll try to get back to you as soon as possible.)</h6>
+
+<p align="center">Check out my <a href="https://medium.com/@jimthejelly">blog</a>!</p>
 
 <hr>
 
